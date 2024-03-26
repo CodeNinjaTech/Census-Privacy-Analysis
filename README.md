@@ -20,18 +20,13 @@ For the exercise, please use the Delaware data available [here](https://www2.cen
 ## Exercise A
 
 After examining the data table (columns & values), answer the following questions:
-
 1. Which attributes can act as quasi-identifiers and why?
-
 2. Which of the following properties holds for the data?
    - They are anonymized
    - They are pseudonymized
    - They are encrypted
-
-Explain the key differences between the three approaches with respect to GDPR.
-
+- [x] Explain the key differences between the three approaches with respect to GDPR.
 3. Explain how a person can be identified.
-
 4. Define differential privacy and explain the importance of the privacy parameter e.
 
 ## Exercise B
