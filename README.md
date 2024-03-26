@@ -3,7 +3,6 @@
 ## Description
 
 The US Census Bureau provides microdata to be used in research and applications. These data were deemed a threat to privacy, and in 2020 they were anonymized for the first time. In this exercise, you must study the last non-anonymized census and discuss the privacy threats.
-
 An example of the microdata of the 2010 census can be found [here](https://www.census.gov/data/datasets/2010/dec/stateside-pums.html). For a full description of the dataset, you can read the [technical documentation](https://www2.census.gov/programs-surveys/decennial/2010/technical-documentation/complete-tech-docs/us-pums/pumsus.pdf).
 
 For the exercise, please use the Delaware data available [here](https://www2.census.gov/census_2010/12-Stateside_PUMS/Delaware/).
@@ -26,7 +25,8 @@ After examining the data table (columns & values), answer the following question
    - They are anonymized
    - They are pseudonymized
    - They are encrypted
-   Explain the key differences between the three approaches with respect to GDPR.
+
+Explain the key differences between the three approaches with respect to GDPR.
 3. Explain how a person can be identified.
 4. Define differential privacy and explain the importance of the privacy parameter e.
 
