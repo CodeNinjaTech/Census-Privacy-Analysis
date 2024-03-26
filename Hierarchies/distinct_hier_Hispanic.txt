@@ -1,0 +1,12 @@
+distinct
+name Hispanic
+type string
+height 3
+
+Not_Hispanic_Latino has 01
+Central_American has 02 03 04 05 06 07 08 09 10 11 12
+South_American has 13 14 15 16 17 18 19 20 21 22
+Other has 23 24 25
+
+* has Not_Hispanic_Latino Central_American South_American Other
+

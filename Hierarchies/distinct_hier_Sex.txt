@@ -1,0 +1,7 @@
+distinct
+name Sex
+type string
+height 2
+
+* has 1 2
+

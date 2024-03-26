@@ -1,0 +1,10 @@
+distinct
+name QTR_BIR
+type string
+height 3
+
+Semester_1 has 0 1 
+Semester_2 has 2 3 
+
+Year has Semester_1 Semester_2 NaN 
+

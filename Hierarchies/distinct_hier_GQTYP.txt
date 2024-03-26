@@ -1,0 +1,10 @@
+distinct
+name GQ_TYP
+type string
+height 3
+
+Not_GQ has 0
+GQ has 1 2
+
+* has Not_GQ GQ
+

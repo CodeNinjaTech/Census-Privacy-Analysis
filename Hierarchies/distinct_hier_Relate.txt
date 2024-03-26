@@ -1,0 +1,11 @@
+distinct
+name Relate
+type string
+height 3
+
+Relative has 01 02 03 04 05 06 07 08 09 10 11
+Non_Relative has 12 13 14 15
+Group_Quarters has 16 17
+
+* has Relative Non_Relative Group_Quarters
+

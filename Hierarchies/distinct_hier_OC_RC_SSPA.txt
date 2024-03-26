@@ -1,0 +1,7 @@
+distinct
+name OC_RC_SSPA
+type string
+height 2
+
+* has 0 1
+
