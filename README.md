@@ -20,21 +20,21 @@ For the exercise, please use the Delaware data available [here](https://www2.cen
 ## Exercise A
 
 After examining the data table (columns & values), answer the following questions:
-1. Which attributes can act as quasi-identifiers and why?
+1. Which attributes can act as **quasi-identifiers** and why?
 2. Which of the following properties holds for the data?
    - They are anonymized
    - They are pseudonymized
    - They are encrypted
-- [x] Explain the key differences between the three approaches with respect to GDPR.
-3. Explain how a person can be identified.
-4. Define differential privacy and explain the importance of the privacy parameter e.
+- [x] Explain the key differences between the three approaches with respect to **GDPR**.
+3. Explain **how a person can be identified**.
+4. Define **differential privacy** and explain the importance of the **privacy parameter e**.
 
 ## Exercise B
 
 Load the dataset into a Python notebook (we suggest Jupyter) and display the first few rows to understand the data.
-1. Use the [Amnesia anonymization tool](https://amnesia.openaire.eu/) to apply k-anonymity to the dataset. Comment on the resulting dataset.
+1. Use the [Amnesia anonymization tool](https://amnesia.openaire.eu/) to apply **k-anonymity** to the dataset. Comment on the resulting dataset.
 2. Plot the distribution of numeric features in the dataset using histograms.
-3. Apply a random noise mechanism to some of the numeric columns using the Gaussian mechanism. The noise should be added to the original values in a way that preserves differential privacy.
+3. Apply a **random noise mechanism** to some of the numeric columns using the Gaussian mechanism. The noise should be added to the original values in a way that preserves differential privacy.
 4. Calculate the differentially private averages for the individuals using the noisy data.
 5. Plot the distribution of numeric features after the noise addition. Try different values of the e parameter. Comment on the effect of the differential privacy on the results.
 
