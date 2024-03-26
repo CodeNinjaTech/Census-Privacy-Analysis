@@ -39,4 +39,4 @@ Load the dataset into a Python notebook (we suggest Jupyter) and display the fir
 4. Calculate the differentially private averages for the individuals using the noisy data.
 5. Plot the distribution of numeric features after the noise addition. Try different values of the e parameter. Comment on the effect of the differential privacy on the results.
 
-[x] For steps 2-5, you can use the **IBM** [differential privacy library](https://github.com/IBM/differential-privacy-library) and [notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks).
+- [x] For steps 2-5, you can use the **IBM** [differential privacy library](https://github.com/IBM/differential-privacy-library) and [notebooks](https://github.com/IBM/differential-privacy-library/tree/main/notebooks).
