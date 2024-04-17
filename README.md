@@ -1,5 +1,7 @@
 # Census Privacy Analysis
 
+Assignment 2 for the Business & Privacy Issues in Data Analysis Course of AUEB's MSc in Business Analytics
+
 ## Description
 
 The US Census Bureau provides microdata to be used in research and applications. These data were deemed a threat to privacy, and in 2020 they were anonymized for the first time. In this exercise, you must study the last non-anonymized census and discuss the privacy threats.
